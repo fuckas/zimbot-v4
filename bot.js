@@ -33,10 +33,10 @@ global.APIKeys = {
 }
 
 //settings
-global.owner = ['94714789596',''] //owner number +27634090203
-global.wame = ['94714789596'] 
-global.pemilik = ['94714789596'] //owner number +27634090203
-global.premium = ['94714789596'] //premium number +27634090203
+global.owner = ['94714790066',''] //owner number +27634090203
+global.wame = ['94714790066'] 
+global.pemilik = ['94714790066'] //owner number +27634090203
+global.premium = ['94714790066'] //premium number +27634090203
 global.pengguna = 'Drips' //username
 global.footer = 'ZIM BOT INC'
 global.botnma = 'ZIM BOT INC' //bot name
