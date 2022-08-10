@@ -27,7 +27,7 @@
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/fuckas/zimbot-v4?organization=fuckas&organization=fuckas)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https:https://github.com/fuckas/zimbot-v3)
 
 ## BUILD PACKS
 
